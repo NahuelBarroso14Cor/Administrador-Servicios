@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Barbería",
+    "description": "Fade bajo",
+    "duration": 30,
+    "price": 150,
+    "category": "Corte",
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Barbería",
+    "description": "Global white - TINTE",
+    "duration": 240,
+    "price": 50,
+    "category": "Tinte",
+    "available": true
+  }
+]
