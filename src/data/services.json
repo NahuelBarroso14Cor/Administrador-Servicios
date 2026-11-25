@@ -11,10 +11,28 @@
   {
     "id": 2,
     "name": "Barbería",
-    "description": "Global white - TINTE",
+    "description": "Mechas white - TINTURA",
     "duration": 240,
     "price": 50,
     "category": "Tinte",
+    "available": true
+  },
+  {
+    "name": "Odontología",
+    "description": "Extracción de muela",
+    "duration": 120,
+    "price": 50,
+    "category": "Odontología",
+    "available": true,
+    "id": 3
+  },
+  {
+    "id": 4,
+    "name": "Odontología",
+    "description": "Extracción de muela",
+    "duration": 120,
+    "price": 50,
+    "category": "Odontología",
     "available": true
   }
 ]

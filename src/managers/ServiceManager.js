@@ -57,8 +57,8 @@ class ServiceManager {
         : 1;
 
     const newService = {
-      ...serviceData,
-      id: newId
+      id: newId,
+      ...serviceData
     };
 
     this.services.push(newService);
